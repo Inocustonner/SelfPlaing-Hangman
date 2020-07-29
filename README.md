@@ -1,0 +1,1 @@
+![Alt Text](https://github.com/Inocustonner/SelfPlaing-Hangman/blob/master/media/gif.gif)
